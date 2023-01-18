@@ -1,4 +1,4 @@
 # cv
 
 Website link 
-Vaidik2473.github.io/cv/
+https://vaidik2473.github.io/cv/
